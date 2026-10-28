@@ -1,3 +1,4 @@
+/* Github Link: https://github.com/EthanLYM/wd-lab10 */
 "use strict";
 /* function validate()will validate form data */
 function validate() {
